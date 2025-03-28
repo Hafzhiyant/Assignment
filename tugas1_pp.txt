@@ -1,0 +1,5 @@
+librosa==0.10.1
+numpy==1.26.4
+noisereduce==1.0.0
+scikit-learn==1.4.0
+soundfile==0.12.1
